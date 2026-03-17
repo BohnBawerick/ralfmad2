@@ -24,9 +24,9 @@ describe("registry", () => {
   });
 
   describe("getAllPlatforms", () => {
-    it("returns array of 6 platforms", () => {
+    it("returns array of 8 platforms", () => {
       const platforms = getAllPlatforms();
-      expect(platforms).toHaveLength(6);
+      expect(platforms).toHaveLength(8);
     });
   });
 

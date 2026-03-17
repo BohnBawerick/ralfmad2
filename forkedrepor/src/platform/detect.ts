@@ -13,6 +13,8 @@ const STRONG_DETECTION_MARKERS: Array<{ platform: PlatformId; markers: string[] 
   { platform: "windsurf", markers: [".windsurf"] },
   { platform: "copilot", markers: [".github/copilot-instructions.md"] },
   { platform: "aider", markers: [".aider.conf.yml"] },
+  { platform: "gemini", markers: [".gemini"] },
+  { platform: "ccr", markers: [".ccr"] },
 ];
 
 const ROOT_INSTRUCTION_MARKERS: Array<{ marker: string; candidates: PlatformId[] }> = [

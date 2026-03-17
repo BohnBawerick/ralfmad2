@@ -13,6 +13,8 @@ export const PLATFORM_IDS = [
   "windsurf",
   "copilot",
   "aider",
+  "gemini",
+  "ccr",
 ] as const;
 export type PlatformId = (typeof PLATFORM_IDS)[number];
 

@@ -42,7 +42,7 @@ async function resolvePlatform(projectDir: string, explicit?: string): Promise<P
     if (!isPlatformId(explicit)) {
       throw new Error(
         `Unknown platform: "${explicit}". ` +
-          `Valid platforms: claude-code, codex, cursor, windsurf, copilot, aider`
+          `Valid platforms: claude-code, codex, cursor, windsurf, copilot, aider, gemini, ccr`
       );
     }
     return getPlatform(explicit);

@@ -1,0 +1,2216 @@
+
+[1m[46m RUN [49m[22m [36mv4.1.0 [39m[90m/home/paiva/PROJECTS/ralfmad2/forkedrepor[39m
+
+ [31m❯[39m tests/platform/registry.test.ts [2m([22m[2m8 tests[22m[2m | [22m[31m1 failed[39m[2m)[22m[32m 29[2mms[22m[39m
+       [32m✓[39m returns claude-code platform with correct properties[32m 4[2mms[22m[39m
+       [32m✓[39m returns codex platform with correct properties[32m 1[2mms[22m[39m
+       [32m✓[39m throws for unknown platform id[32m 2[2mms[22m[39m
+[31m       [31m×[31m returns array of 6 platforms[39m[32m 16[2mms[22m[39m
+       [32m✓[39m returns true for claude-code[32m 1[2mms[22m[39m
+       [32m✓[39m returns true for codex[32m 0[2mms[22m[39m
+       [32m✓[39m returns false for unknown[32m 1[2mms[22m[39m
+       [32m✓[39m returns false for empty string[32m 0[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates phase to 4 after successful transition
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mthrows when no artifacts directory exists
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mthrows when no stories file exists
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mthrows when stories file has no parseable stories
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mthrows when stories file has no parseable stories
+[22m[39mParsing stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mphase state update (Bug #1)[2m > [22m[2mupdates lastUpdated timestamp after transition
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mGenerating fix plan for 2 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates fix_plan.md from stories
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mwarns when a completed story is removed from BMAD output
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates enriched fix_plan.md with inline acceptance criteria
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mdeleted story detection (Bug #2)[2m > [22m[2mdoes not warn when uncompleted stories are removed
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mGenerating fix plan for 2 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstory ID change detection (Bug #3)[2m > [22m[2mwarns when completed story ID appears to have been renumbered
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies planning-artifacts to .ralph/specs/planning-artifacts/
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses detected stories filename in fix plan spec links
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mfix-plan spec links use detected stories filename (Bug #2b)[2m > [22m[2muses stories.md in links when file is named stories.md
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies implementation-artifacts to .ralph/specs/implementation-artifacts/
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mGenerating fix plan for 2 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mPreparing specs tree...
+
+ [32m✓[39m tests/scripts/run-bash-tests.test.ts [2m([22m[2m5 tests[22m[2m)[22m[33m 905[2mms[22m[39m
+     [33m[2m✓[22m[39m returns the bats exit code when bash and bats are available [33m 305[2mms[22m[39m
+     [33m[2m✓[22m[39m skips when jq is unavailable [33m 341[2mms[22m[39m
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2maggregates stories from multiple epic files and preserves per-story source links
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mGenerating fix plan for 2 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mworks when only planning-artifacts exists (no implementation-artifacts)
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mdiscovers stories from sharded epic directories
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mfails when duplicate story IDs are present across epic files
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2mfails when duplicate story IDs are present across epic files
+[22m[39mParsing stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROMPT.md with project name
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mGenerating fix plan for 6 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status as the source of truth over stale fix plan progress
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mGenerating fix plan for 2 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves rich PROMPT.md template with placeholder replacement
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mcanonical artifact aggregation[2m > [22m[2muses sprint-status from implementation-artifacts over stale fix plan progress
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2muses generatePrompt fallback when PROMPT.md has no placeholder
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mreturns generatedFiles with correct actions
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mcopies brainstorming sessions to .ralph/specs/brainstorming/
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks files as created on first run
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mParsing stories...
+Pre-flight validation...
+
+ [32m✓[39m tests/commands/status.test.ts [2m([22m[2m29 tests[22m[2m)[22m[33m 1258[2mms[22m[39m
+       [33m[2m✓[22m[39m shows error when no project is initialized [33m 336[2mms[22m[39m
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mskips brainstorming copy gracefully when directory does not exist
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warnings array in result
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mgenerated files tracking[2m > [22m[2mmarks fix_plan as updated on re-run
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when PRD is missing
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns warning when architecture doc is missing
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mstale file cleanup[2m > [22m[2mremoves stale files from .ralph/specs/ on re-transition
+[22m[39mTransition complete: phase 4 (implementing)
+
+ [32m✓[39m tests/commands/implement.test.ts [2m([22m[2m23 tests[22m[2m)[22m[33m 632[2mms[22m[39m
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mreturns no file-missing warnings when PRD and architecture both exist
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mthrows on NO-GO readiness report
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mthrows on NO-GO readiness report
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtruncation warnings (Bug #9)[2m > [22m[2mwarns when PRD goals are truncated
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mGenerating fix plan for 2 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mno stories file error path[2m > [22m[2mthrows when no file matches the stories pattern
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mzero parsed stories error path[2m > [22m[2mthrows when stories file parses to zero stories
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mzero parsed stories error path[2m > [22m[2mthrows when stories file parses to zero stories
+[22m[39mParsing stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mpreserves fix_plan.md when it has checked items
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mreplaces [YOUR PROJECT NAME] with actual project name
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2moverwrites fix_plan.md when no items are checked
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mPROMPT.md placeholder replacement[2m > [22m[2mgenerates new PROMPT.md when no placeholder present
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mgenerates PROJECT_CONTEXT.md from PRD and architecture
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2msets fixPlanPreserved to false when no existing fix_plan
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when architecture has tech stack
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mCould not customize @AGENT.md: ENOENT: no such file or directory, open '/tmp/bmalph-orchestration-1773673636583-ffbd3yauk7a/.ralph/@AGENT.md'
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mwarns but does not fail when @AGENT.md is missing
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition[2m > [22m[2mno readiness warning when report is GO
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mtech stack + @AGENT.md customization[2m > [22m[2mcustomizes @AGENT.md when stack is documented in Core Architectural Decisions
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mcustomizes AGENT.md when architecture file has detectable stack
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2mpreserves specs if cp fails mid-operation
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when no architecture file exists
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomic specs copy[2m > [22m[2muses temp directory for atomic copy
+[22m[39mTransition complete: phase 4 (implementing)
+
+ [32m✓[39m tests/utils/state.test.ts [2m([22m[2m29 tests[22m[2m)[22m[33m 324[2mms[22m[39m
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition AGENT.md[2m > [22m[2mleaves AGENT.md unchanged when stack is not detectable
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mGenerating SPECS_INDEX.md...
+
+ [32m✓[39m tests/utils/github.test.ts [2m([22m[2m33 tests[22m[2m)[22m[33m 577[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites @fix_plan.md atomically
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mGenerating fix plan for 3 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2matomicWriteFile for generated files[2m > [22m[2mwrites PROMPT.md atomically
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mhalts transition on NO-GO readiness report
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mhalts transition on NO-GO readiness report
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mpreserves completed stories when BMAD adds new epic
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mexposes structured preflight issues on blocking failure
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mexposes structured preflight issues on blocking failure
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_CHANGELOG.md when specs change
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mproceeds with warnings for missing PRD sections
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mdoes not generate SPECS_CHANGELOG.md when no specs changes
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreports filename-specific warnings when one of multiple PRDs is malformed
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mParsing stories...
+Pre-flight validation...
+Pre-flight validation has errors but --force was used, continuing...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mGenerating SPECS_INDEX.md...
+
+ [32m✓[39m tests/run/run-dashboard.test.ts [2m([22m[2m11 tests[22m[2m)[22m[33m 461[2mms[22m[39m
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mgenerates SPECS_INDEX.md with prioritized file list
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade E1 to warning
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mblocks transition on malformed story IDs without force
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mblocks transition on malformed story IDs without force
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition.test.ts[2m > [22m[2mtransition[2m > [22m[2mrunTransition merge[2m > [22m[2mPROMPT.md includes specs reading strategy
+[22m[39mTransition complete: phase 4 (implementing)
+
+ [32m✓[39m tests/transition.test.ts [2m([22m[2m121 tests[22m[2m)[22m[33m 2088[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mParsing stories...
+Pre-flight validation...
+Pre-flight validation has errors but --force was used, continuing...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mGenerating fix plan for 3 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mrespects force option to downgrade malformed story IDs and keeps valid stories first
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mincludes preflight warnings in TransitionResult.warnings
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mreturns preflightIssues in TransitionResult
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2mdoes not duplicate parse warnings in result
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mGenerating fix plan for 3 stories...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration.test.ts[2m > [22m[2morchestration[2m > [22m[2mpre-flight validation[2m > [22m[2maccepts BMAD-native scope, architecture, and acceptance criteria formats
+[22m[39mTransition complete: phase 4 (implementing)
+
+ [32m✓[39m tests/transition/orchestration.test.ts [2m([22m[2m39 tests[22m[2m)[22m[33m 2421[2mms[22m[39m
+ [32m✓[39m tests/commands/upgrade.test.ts [2m([22m[2m24 tests[22m[2m)[22m[33m 332[2mms[22m[39m
+ [32m✓[39m tests/commands/run.test.ts [2m([22m[2m19 tests[22m[2m)[22m[32m 288[2mms[22m[39m
+ [32m✓[39m tests/run/ralph-process.test.ts [2m([22m[2m22 tests[22m[2m)[22m[33m 3144[2mms[22m[39m
+     [33m[2m✓[22m[39m times out when bash validation hangs [33m 3008[2mms[22m[39m
+ [32m✓[39m tests/commands/init.test.ts [2m([22m[2m22 tests[22m[2m)[22m[32m 175[2mms[22m[39m
+ [32m✓[39m tests/watch/state-reader.test.ts [2m([22m[2m51 tests[22m[2m)[22m[33m 373[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for _bmad-output
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for _bmad-output
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for _bmad-output
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for _bmad-output
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for _bmad-output
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for docs/planning fallback
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for docs/planning fallback
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for docs/planning fallback
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for docs/planning fallback
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mrestores existing specs when the final rename fails for docs/planning fallback
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mreuses specs.old as backup when retrying after an incomplete failed swap
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mreuses specs.old as backup when retrying after an incomplete failed swap
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mreuses specs.old as backup when retrying after an incomplete failed swap
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mreuses specs.old as backup when retrying after an incomplete failed swap
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mreuses specs.old as backup when retrying after an incomplete failed swap
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mPreparing specs tree...
+
+ [32m✓[39m tests/utils/file-system.test.ts [2m([22m[2m33 tests[22m[2m)[22m[32m 223[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcleans up specs swap temp directories after a successful transition
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mPreparing specs tree...
+
+ [32m✓[39m tests/utils/ralph-runtime-state.test.ts [2m([22m[2m27 tests[22m[2m)[22m[32m 237[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration-atomic.test.ts[2m > [22m[2morchestration atomic specs swap[2m > [22m[2mcreates specs on first install without leaving swap directories behind
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mParsing stories...
+Pre-flight validation...
+
+ [32m✓[39m tests/transition/orchestration-atomic.test.ts [2m([22m[2m5 tests[22m[2m)[22m[32m 283[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mGenerating SPECS_INDEX.md...
+
+ [32m✓[39m tests/platform/resolve.test.ts [2m([22m[2m8 tests[22m[2m)[22m[32m 164[2mms[22m[39m
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps the TransitionResult top-level shape
+[22m[39mTransition complete: phase 4 (implementing)
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mLocating BMAD artifacts...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mParsing stories...
+Pre-flight validation...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mGenerating fix plan for 1 stories...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mPreparing specs tree...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mCopying specs to .ralph/specs/...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mGenerating SPECS_INDEX.md...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mGenerating PROJECT_CONTEXT.md...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mGenerating PROMPT.md...
+
+[90mstdout[2m | tests/transition/orchestration-contract.test.ts[2m > [22m[2morchestration contract[2m > [22m[2mkeeps generated file reporting in orchestration order
+[22m[39mTransition complete: phase 4 (implementing)
+
+ [32m✓[39m tests/transition/orchestration-contract.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 191[2mms[22m[39m
+ [32m✓[39m tests/integration/init-flow.test.ts [2m([22m[2m4 tests[22m[2m)[22m[33m 3716[2mms[22m[39m
+     [33m[2m✓[22m[39m full init creates a working project structure [33m 705[2mms[22m[39m
+     [33m[2m✓[22m[39m config round-trip works with all fields [33m 891[2mms[22m[39m
+     [33m[2m✓[22m[39m mergeInstructionsFile references /bmalph slash command [33m 969[2mms[22m[39m
+     [33m[2m✓[22m[39m installs slash command to .claude/commands/ [33m 1148[2mms[22m[39m
+ [32m✓[39m tests/transition/specs-changelog.test.ts [2m([22m[2m17 tests[22m[2m)[22m[32m 251[2mms[22m[39m
+ [32m✓[39m tests/transition/artifact-scan.test.ts [2m([22m[2m42 tests[22m[2m)[22m[32m 120[2mms[22m[39m
+ [32m✓[39m tests/reset.test.ts [2m([22m[2m24 tests[22m[2m)[22m[32m 202[2mms[22m[39m
+ [32m✓[39m tests/transition/specs-index.test.ts [2m([22m[2m47 tests[22m[2m)[22m[32m 132[2mms[22m[39m
+ [32m✓[39m tests/platform/doctor-checks.test.ts [2m([22m[2m14 tests[22m[2m)[22m[32m 143[2mms[22m[39m
+ [32m✓[39m tests/watch/renderer.test.ts [2m([22m[2m60 tests[22m[2m)[22m[32m 206[2mms[22m[39m
+ [32m✓[39m tests/platform/detect.test.ts [2m([22m[2m11 tests[22m[2m)[22m[32m 131[2mms[22m[39m
+ [32m✓[39m tests/transition/specs-sync.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 97[2mms[22m[39m
+ [32m✓[39m tests/transition/preflight.test.ts [2m([22m[2m43 tests[22m[2m)[22m[32m 75[2mms[22m[39m
+ [32m✓[39m tests/watch/integration.test.ts [2m([22m[2m3 tests[22m[2m)[22m[32m 132[2mms[22m[39m
+ [32m✓[39m tests/commands/doctor-runtime-checks.behavior.test.ts [2m([22m[2m14 tests[22m[2m)[22m[32m 147[2mms[22m[39m
+ [32m✓[39m tests/utils/config.test.ts [2m([22m[2m5 tests[22m[2m)[22m[32m 86[2mms[22m[39m
+ [32m✓[39m tests/commands/watch.test.ts [2m([22m[2m8 tests[22m[2m)[22m[32m 125[2mms[22m[39m
+ [32m✓[39m tests/transition/artifacts.test.ts [2m([22m[2m8 tests[22m[2m)[22m[32m 73[2mms[22m[39m
+ [32m✓[39m tests/utils/validate.test.ts [2m([22m[2m82 tests[22m[2m)[22m[32m 80[2mms[22m[39m
+ [32m✓[39m tests/commands/reset.test.ts [2m([22m[2m8 tests[22m[2m)[22m[32m 90[2mms[22m[39m
+ [32m✓[39m tests/commands/doctor-checks.test.ts [2m([22m[2m38 tests[22m[2m)[22m[32m 59[2mms[22m[39m
+ [32m✓[39m tests/transition/context.test.ts [2m([22m[2m46 tests[22m[2m)[22m[32m 89[2mms[22m[39m
+ [32m✓[39m tests/transition/tech-stack.test.ts [2m([22m[2m30 tests[22m[2m)[22m[32m 43[2mms[22m[39m
+ [32m✓[39m tests/platform/ide-platforms.test.ts [2m([22m[2m18 tests[22m[2m)[22m[32m 88[2mms[22m[39m
+ [32m✓[39m tests/utils/errors.test.ts [2m([22m[2m19 tests[22m[2m)[22m[32m 53[2mms[22m[39m
+ [32m✓[39m tests/platform/full-tier-platforms.test.ts [2m([22m[2m23 tests[22m[2m)[22m[32m 76[2mms[22m[39m
+ [32m✓[39m tests/utils/json.test.ts [2m([22m[2m5 tests[22m[2m)[22m[32m 32[2mms[22m[39m
+ [32m✓[39m tests/installer-error-handling.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 68[2mms[22m[39m
+ [32m✓[39m tests/transition/fix-plan.test.ts [2m([22m[2m44 tests[22m[2m)[22m[32m 40[2mms[22m[39m
+ [32m✓[39m tests/platform/claude-code.test.ts [2m([22m[2m11 tests[22m[2m)[22m[32m 46[2mms[22m[39m
+ [32m✓[39m tests/utils/logger.test.ts [2m([22m[2m11 tests[22m[2m)[22m[32m 48[2mms[22m[39m
+ [32m✓[39m tests/platform/codex.test.ts [2m([22m[2m9 tests[22m[2m)[22m[32m 34[2mms[22m[39m
+ [32m✓[39m tests/watch/file-watcher.test.ts [2m([22m[2m10 tests[22m[2m)[22m[32m 53[2mms[22m[39m
+ [32m✓[39m tests/commands/doctor-health-checks.test.ts [2m([22m[2m27 tests[22m[2m)[22m[32m 35[2mms[22m[39m
+ [32m✓[39m tests/platform/instructions-snippet.test.ts [2m([22m[2m26 tests[22m[2m)[22m[32m 23[2mms[22m[39m
+ [32m✓[39m tests/commands/doctor-runtime-checks.test.ts [2m([22m[2m53 tests[22m[2m)[22m[32m 44[2mms[22m[39m
+ [32m✓[39m tests/utils/artifact-definitions.test.ts [2m([22m[2m11 tests[22m[2m)[22m[32m 24[2mms[22m[39m
+output
+ [32m✓[39m tests/watch/dashboard.test.ts [2m([22m[2m8 tests[22m[2m)[22m[32m 29[2mms[22m[39m
+ [32m✓[39m tests/e2e/helpers/cursor-runtime.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 28[2mms[22m[39m
+ [32m✓[39m tests/transition/story-parsing.test.ts [2m([22m[2m13 tests[22m[2m)[22m[32m 30[2mms[22m[39m
+ [32m✓[39m tests/watch/frame-writer.test.ts [2m([22m[2m7 tests[22m[2m)[22m[32m 31[2mms[22m[39m
+ [32m✓[39m tests/commands/check-updates.test.ts [2m([22m[2m7 tests[22m[2m)[22m[32m 24[2mms[22m[39m
+ [32m✓[39m tests/utils/format-status.test.ts [2m([22m[2m10 tests[22m[2m)[22m[32m 14[2mms[22m[39m
+ [32m✓[39m tests/gitignore.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 12[2mms[22m[39m
+ [32m✓[39m tests/platform/cursor-runtime-checks.test.ts [2m([22m[2m7 tests[22m[2m)[22m[32m 26[2mms[22m[39m
+ [32m✓[39m tests/transition/sprint-status.test.ts [2m([22m[2m5 tests[22m[2m)[22m[32m 14[2mms[22m[39m
+ [32m✓[39m tests/utils/dryrun.test.ts [2m([22m[2m6 tests[22m[2m)[22m[32m 13[2mms[22m[39m
+ [32m✓[39m tests/transition/specs-changelog-error.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 9[2mms[22m[39m
+ [32m✓[39m tests/installer-facade.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 12[2mms[22m[39m
+ [32m✓[39m tests/installer-atomic.test.ts [2m([22m[2m8 tests[22m[2m)[22m[33m 6956[2mms[22m[39m
+     [33m[2m✓[22m[39m restores original _bmad when final rename fails [33m 485[2mms[22m[39m
+     [33m[2m✓[22m[39m cleans up _bmad.old on success [33m 801[2mms[22m[39m
+     [33m[2m✓[22m[39m cleans up leftover _bmad.old from previous failed attempt [33m 903[2mms[22m[39m
+     [33m[2m✓[22m[39m reuses _bmad.old as backup when retrying after a failed rollback [33m 669[2mms[22m[39m
+     [33m[2m✓[22m[39m treats ENOENT during rename-aside as a first-install race [33m 1310[2mms[22m[39m
+     [33m[2m✓[22m[39m handles first install when no _bmad exists [33m 1328[2mms[22m[39m
+     [33m[2m✓[22m[39m restores original _bmad when post-swap finalization fails [33m 727[2mms[22m[39m
+     [33m[2m✓[22m[39m cleans up incomplete _bmad when post-swap finalization fails on first install [33m 730[2mms[22m[39m
+ [32m✓[39m tests/documentation.test.ts [2m([22m[2m3 tests[22m[2m)[22m[32m 9[2mms[22m[39m
+ [32m✓[39m tests/utils/constants.test.ts [2m([22m[2m5 tests[22m[2m)[22m[32m 10[2mms[22m[39m
+ [32m✓[39m tests/vitest-config.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 7[2mms[22m[39m
+ [32m✓[39m tests/cli.test.ts [2m([22m[2m20 tests[22m[2m)[22m[33m 8142[2mms[22m[39m
+     [33m[2m✓[22m[39m outputs help with --help [33m 462[2mms[22m[39m
+     [33m[2m✓[22m[39m shows error for unknown command [33m 533[2mms[22m[39m
+     [33m[2m✓[22m[39m registers init command [33m 515[2mms[22m[39m
+     [33m[2m✓[22m[39m registers init, upgrade, doctor, status, implement, reset commands [33m 429[2mms[22m[39m
+     [33m[2m✓[22m[39m reset command has help [33m 400[2mms[22m[39m
+     [33m[2m✓[22m[39m accepts --verbose flag [33m 373[2mms[22m[39m
+     [33m[2m✓[22m[39m init accepts name and description options [33m 415[2mms[22m[39m
+     [33m[2m✓[22m[39m doctor command has help [33m 410[2mms[22m[39m
+     [33m[2m✓[22m[39m upgrade command has help [33m 460[2mms[22m[39m
+     [33m[2m✓[22m[39m status command has help [33m 444[2mms[22m[39m
+     [33m[2m✓[22m[39m version matches package.json format [33m 420[2mms[22m[39m
+     [33m[2m✓[22m[39m description mentions Ralph [33m 419[2mms[22m[39m
+     [33m[2m✓[22m[39m accepts --no-color flag [33m 373[2mms[22m[39m
+     [33m[2m✓[22m[39m --no-color flag disables colored output [33m 378[2mms[22m[39m
+     [33m[2m✓[22m[39m accepts --quiet flag [33m 459[2mms[22m[39m
+     [33m[2m✓[22m[39m accepts -C/--project-dir option [33m 402[2mms[22m[39m
+     [33m[2m✓[22m[39m upgrade accepts --force flag [33m 306[2mms[22m[39m
+     [33m[2m✓[22m[39m errors when --project-dir points to non-existent path [33m 399[2mms[22m[39m
+ [32m✓[39m tests/commands/doctor.test.ts [2m([22m[2m78 tests[22m[2m)[22m[33m 17903[2mms[22m[39m
+       [33m[2m✓[22m[39m checks for bash availability [33m 977[2mms[22m[39m
+       [33m[2m✓[22m[39m checks for jq availability [33m 609[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when jq is installed [33m 448[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when config.json exists and is valid JSON [33m 437[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when config.json does not exist [33m 430[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when config.json contains invalid JSON [33m 457[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when _bmad/ directory exists [33m 526[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when _bmad/ directory does not exist [33m 561[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when ralph_loop.sh exists and has content [33m 472[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when ralph_loop.sh does not exist [33m 495[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when ralph_loop.sh is empty [33m 486[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when .ralph/lib/ directory exists [33m 482[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when .ralph/lib/ directory does not exist [33m 486[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when .claude/commands/bmalph.md exists [33m 403[2mms[22m[39m
+       [33m[2m✓[22m[39m fails when .claude/commands/bmalph.md does not exist [33m 398[2mms[22m[39m
+       [33m[2m✓[22m[39m passes when CLAUDE.md contains BMAD snippet [33m 321[2mms[22m[39m
+[90mstdout[2m | tests/installer.test.ts[2m > [22m[2minstaller[2m > [22m[2mhardening: swallowed exceptions[2m > [22m[2mderiveProjectName warns on non-ENOENT errors but does not throw
+[22m[39mCould not read bmalph/config.json: EISDIR: illegal operation on a directory, read
+
+ [32m✓[39m tests/installer.test.ts [2m([22m[2m164 tests[22m[2m)[22m[33m 53833[2mms[22m[39m
+       [33m[2m✓[22m[39m creates bmalph state directory [33m 740[2mms[22m[39m
+       [33m[2m✓[22m[39m copies BMAD files to _bmad/ [33m 1026[2mms[22m[39m
+       [33m[2m✓[22m[39m generates _bmad/config.yaml with all required BMAD variables [33m 894[2mms[22m[39m
+       [33m[2m✓[22m[39m copies Ralph loop and lib to .ralph/ [33m 1361[2mms[22m[39m
+       [33m[2m✓[22m[39m copies Ralph templates to .ralph/ [33m 899[2mms[22m[39m
+       [33m[2m✓[22m[39m creates .ralph subdirectories [33m 1197[2mms[22m[39m
+       [33m[2m✓[22m[39m updates .gitignore with ralph logs and bmad output [33m 945[2mms[22m[39m
+       [33m[2m✓[22m[39m appends to existing .gitignore without duplicating [33m 977[2mms[22m[39m
+       [33m[2m✓[22m[39m copies slash command to .claude/commands/bmalph.md [33m 341[2mms[22m[39m
+       [33m[2m✓[22m[39m creates .claude/commands/ directory [33m 359[2mms[22m[39m
+       [33m[2m✓[22m[39m slash command loads BMAD master agent [33m 408[2mms[22m[39m
+       [33m[2m✓[22m[39m slash command does not contain hardcoded phase logic [33m 448[2mms[22m[39m
+       [33m[2m✓[22m[39m copies all slash commands from slash-commands/ directory [33m 360[2mms[22m[39m
+       [33m[2m✓[22m[39m does not include removed TEA, testarch, or excalidraw commands [33m 382[2mms[22m[39m
+       [33m[2m✓[22m[39m does not include Phase 4 commands replaced by Ralph [33m 430[2mms[22m[39m
+       [33m[2m✓[22m[39m agent slash commands reference correct YAML paths [33m 384[2mms[22m[39m
+       [33m[2m✓[22m[39m workflow slash command adopts agent role and executes workflow [33m 403[2mms[22m[39m
+       [33m[2m✓[22m[39m core slash commands execute directly without agent role [33m 384[2mms[22m[39m
+       [33m[2m✓[22m[39m copies all expected files [33m 423[2mms[22m[39m
+       [33m[2m✓[22m[39m generates _bmad/_config/task-manifest.csv with combined module-help content [33m 390[2mms[22m[39m
+       [33m[2m✓[22m[39m generates _bmad/_config/workflow-manifest.csv identical to task-manifest.csv [33m 371[2mms[22m[39m
+       [33m[2m✓[22m[39m generates _bmad/_config/bmad-help.csv with combined manifest content [33m 398[2mms[22m[39m
+       [33m[2m✓[22m[39m manifests contain implementation phase workflows [33m 393[2mms[22m[39m
+       [33m[2m✓[22m[39m does NOT create bmalph/state/ or .ralph/logs/ [33m 404[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves existing .ralph/@fix_plan.md [33m 407[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves existing .ralph/logs/ content [33m 391[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves existing bmalph/config.json [33m 439[2mms[22m[39m
+       [33m[2m✓[22m[39m copies .ralphrc during install [33m 414[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves existing .ralphrc on upgrade [33m 446[2mms[22m[39m
+       [33m[2m✓[22m[39m updates legacy managed .ralphrc on upgrade [33m 354[2mms[22m[39m
+       [33m[2m✓[22m[39m updates managed .ralphrc from before the permission-mode block on upgrade [33m 429[2mms[22m[39m
+       [33m[2m✓[22m[39m updates previous managed .ralphrc on upgrade [33m 453[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves customized PROMPT.md on upgrade [33m 687[2mms[22m[39m
+       [33m[2m✓[22m[39m replaces template PROMPT.md on upgrade [33m 702[2mms[22m[39m
+       [33m[2m✓[22m[39m copies PROMPT.md when it does not exist [33m 387[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves customized @AGENT.md on upgrade [33m 722[2mms[22m[39m
+       [33m[2m✓[22m[39m replaces template @AGENT.md on upgrade [33m 677[2mms[22m[39m
+       [33m[2m✓[22m[39m copies @AGENT.md when it does not exist [33m 316[2mms[22m[39m
+       [33m[2m✓[22m[39m excludes preserved PROMPT.md from updatedPaths [33m 713[2mms[22m[39m
+       [33m[2m✓[22m[39m excludes preserved @AGENT.md from updatedPaths [33m 699[2mms[22m[39m
+       [33m[2m✓[22m[39m copies new Ralph lib files [33m 315[2mms[22m[39m
+       [33m[2m✓[22m[39m removes stale files from _bmad/ on upgrade [33m 643[2mms[22m[39m
+       [33m[2m✓[22m[39m removes stale files from .ralph/lib/ on upgrade [33m 629[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves non-bundled user commands in .claude/commands/ on upgrade [33m 703[2mms[22m[39m
+       [33m[2m✓[22m[39m is idempotent (twice = same result) [33m 685[2mms[22m[39m
+       [33m[2m✓[22m[39m returns list of updated paths [33m 350[2mms[22m[39m
+       [33m[2m✓[22m[39m validates source directories exist before copying [33m 345[2mms[22m[39m
+       [33m[2m✓[22m[39m CSV validation code path executes without error when files exist [33m 353[2mms[22m[39m
+       [33m[2m✓[22m[39m does not warn when CSV headers differ only by trailing comma [33m 337[2mms[22m[39m
+       [33m[2m✓[22m[39m strips trailing commas from manifest rows [33m 326[2mms[22m[39m
+       [33m[2m✓[22m[39m replaces existing version marker correctly [33m 681[2mms[22m[39m
+       [33m[2m✓[22m[39m handles version marker with empty value (edge case) [33m 727[2mms[22m[39m
+       [33m[2m✓[22m[39m handles version marker at end of file without newline [33m 715[2mms[22m[39m
+       [33m[2m✓[22m[39m ralph_loop.sh starts with shebang [33m 345[2mms[22m[39m
+       [33m[2m✓[22m[39m ralph_loop.sh contains version marker [33m 332[2mms[22m[39m
+       [33m[2m✓[22m[39m ralph_loop.sh references @fix_plan.md for completion detection [33m 350[2mms[22m[39m
+       [33m[2m✓[22m[39m config.yaml has valid structure with output_folder [33m 328[2mms[22m[39m
+       [33m[2m✓[22m[39m config.yaml derives project_name from directory name [33m 352[2mms[22m[39m
+       [33m[2m✓[22m[39m config.yaml derives project_name from bmalph/config.json when present [33m 412[2mms[22m[39m
+       [33m[2m✓[22m[39m config.yaml escapes special YAML characters in project_name [33m 347[2mms[22m[39m
+       [33m[2m✓[22m[39m slash command delegates to BMAD master agent [33m 339[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md template contains TDD instructions [33m 343[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md references .ralph/specs/ for specifications [33m 332[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md references .ralph/@fix_plan.md [33m 390[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md references .ralph/@AGENT.md [33m 339[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md tells Ralph not to ask the user questions during loop execution [33m 328[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md template includes the fix-plan progress tracking contract [33m 333[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md template examples never claim multiple completed tasks in one loop [33m 358[2mms[22m[39m
+       [33m[2m✓[22m[39m legacy enable_core prompt template constrains TASKS_COMPLETED_THIS_LOOP to 0 or 1 [33m 346[2mms[22m[39m
+       [33m[2m✓[22m[39m PROMPT.md references docs/ for project knowledge [33m 337[2mms[22m[39m
+       [33m[2m✓[22m[39m @AGENT.md template exists and has content [33m 338[2mms[22m[39m
+       [33m[2m✓[22m[39m RALPH-REFERENCE.md is copied to .ralph/ [33m 328[2mms[22m[39m
+       [33m[2m✓[22m[39m RALPH-REFERENCE.md contains session management documentation [33m 348[2mms[22m[39m
+       [33m[2m✓[22m[39m RALPH-REFERENCE.md contains circuit breaker documentation [33m 395[2mms[22m[39m
+       [33m[2m✓[22m[39m RALPH-REFERENCE.md contains exit detection documentation [33m 350[2mms[22m[39m
+       [33m[2m✓[22m[39m RALPH-REFERENCE.md contains troubleshooting section [33m 342[2mms[22m[39m
+       [33m[2m✓[22m[39m RALPH-REFERENCE.md documents the installed .ralph/.ralphrc path [33m 341[2mms[22m[39m
+       [33m[2m✓[22m[39m ralph_import.sh points deprecated users to bmalph and @fix_plan.md [33m 338[2mms[22m[39m
+       [33m[2m✓[22m[39m ralph_monitor.sh deprecation guidance points to bmalph run [33m 317[2mms[22m[39m
+       [33m[2m✓[22m[39m classifies all paths as wouldUpdate on initialized project [33m 359[2mms[22m[39m
+       [33m[2m✓[22m[39m classifies customized PROMPT.md as wouldPreserve [33m 404[2mms[22m[39m
+       [33m[2m✓[22m[39m classifies template PROMPT.md as wouldUpdate [33m 347[2mms[22m[39m
+       [33m[2m✓[22m[39m classifies customized @AGENT.md as wouldPreserve [33m 369[2mms[22m[39m
+       [33m[2m✓[22m[39m classifies template @AGENT.md as wouldUpdate [33m 362[2mms[22m[39m
+       [33m[2m✓[22m[39m classifies customized .ralphrc as wouldPreserve [33m 343[2mms[22m[39m
+       [33m[2m✓[22m[39m recovers _bmad if cp fails after rm (atomic copy) [33m 699[2mms[22m[39m
+       [33m[2m✓[22m[39m uses temp directory during _bmad copy [33m 335[2mms[22m[39m
+       [33m[2m✓[22m[39m stale command cleanup ignores ENOENT but propagates other errors [33m 335[2mms[22m[39m
+       [33m[2m✓[22m[39m deriveProjectName warns on non-ENOENT errors but does not throw [33m 348[2mms[22m[39m
+       [33m[2m✓[22m[39m does not dereference symlinks when copying _bmad [33m 331[2mms[22m[39m
+       [33m[2m✓[22m[39m does not dereference symlinks when copying ralph lib [33m 362[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves user-created .md files not in bundled slash-commands [33m 791[2mms[22m[39m
+       [33m[2m✓[22m[39m still removes stale bundled commands [33m 374[2mms[22m[39m
+       [33m[2m✓[22m[39m calls chmod on ralph_loop.sh without error [33m 330[2mms[22m[39m
+       [33m[2m✓[22m[39m calls chmod on ralph_import.sh without error [33m 342[2mms[22m[39m
+       [33m[2m✓[22m[39m calls chmod on ralph_monitor.sh without error [33m 322[2mms[22m[39m
+       [33m[2m✓[22m[39m config.yaml exists after copyBundledAssets [33m 355[2mms[22m[39m
+       [33m[2m✓[22m[39m manifests exist after copyBundledAssets [33m 351[2mms[22m[39m
+       [33m[2m✓[22m[39m gitignore is written atomically (no partial content) [33m 327[2mms[22m[39m
+       [33m[2m✓[22m[39m generates _bmad/COMMANDS.md after copyBundledAssets [33m 373[2mms[22m[39m
+       [33m[2m✓[22m[39m groups commands by phase with correct section headings [33m 356[2mms[22m[39m
+       [33m[2m✓[22m[39m includes agents section with known agents [33m 342[2mms[22m[39m
+       [33m[2m✓[22m[39m includes bmalph CLI section [33m 328[2mms[22m[39m
+       [33m[2m✓[22m[39m includes invocation column with file references [33m 308[2mms[22m[39m
+       [33m[2m✓[22m[39m is regenerated on upgrade (copyBundledAssets) [33m 623[2mms[22m[39m
+       [33m[2m✓[22m[39m generates SKILL.md files with correct frontmatter [33m 380[2mms[22m[39m
+       [33m[2m✓[22m[39m generates skill body from slash command content [33m 373[2mms[22m[39m
+       [33m[2m✓[22m[39m generates skill for workflow commands [33m 395[2mms[22m[39m
+       [33m[2m✓[22m[39m generates skill for bmalph master agent command [33m 390[2mms[22m[39m
+       [33m[2m✓[22m[39m skips CLI pointer commands [33m 406[2mms[22m[39m
+       [33m[2m✓[22m[39m uses bmad- prefix for folder names [33m 403[2mms[22m[39m
+       [33m[2m✓[22m[39m cleans up stale skills on re-run [33m 498[2mms[22m[39m
+       [33m[2m✓[22m[39m preserves non-bmad user skills [33m 503[2mms[22m[39m
+       [33m[2m✓[22m[39m is idempotent [33m 472[2mms[22m[39m
+       [33m[2m✓[22m[39m copies _bmad/lite/create-prd.md during install [33m 311[2mms[22m[39m
+       [33m[2m✓[22m[39m includes quality rules and project type guidance [33m 324[2mms[22m[39m
+       [33m[2m✓[22m[39m is preserved on upgrade (copyBundledAssets) [33m 656[2mms[22m[39m
+
+[2m Test Files [22m [1m[31m1 failed[39m[22m[2m | [22m[1m[32m71 passed[39m[22m[90m (72)[39m
+[2m      Tests [22m [1m[31m1 failed[39m[22m[2m | [22m[1m[32m1633 passed[39m[22m[90m (1634)[39m
+[2m   Start at [22m 23:07:13
+[2m   Duration [22m 54.91s[2m (transform 7.84s, setup 0ms, import 12.96s, tests 107.87s, environment 19ms)[22m
+
